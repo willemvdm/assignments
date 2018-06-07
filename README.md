@@ -5,3 +5,4 @@ This repository contains my assignments.
 * [assignment week 4](https://github.com/willemvdm/assignments/blob/master/assignment4.ipynb)
 * [assignment week 6](https://github.com/willemvdm/assignments/blob/master/assignment%206.ipynb)
 * [assignment week 7](https://github.com/willemvdm/assignments/blob/master/assignment%207.ipynb)
+* [Final Exam Python](https://github.com/willemvdm/assignments/blob/master/exam_june_7_2018%20(2).ipynb)
